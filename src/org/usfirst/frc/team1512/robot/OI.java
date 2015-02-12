@@ -9,6 +9,8 @@ import org.usfirst.frc.team1512.robot.commands.*;
 /**
  * This class is the glue that binds the controls on the physical operator
  * interface to the commands and command groups that allow control of the robot.
+ 
+ *this is a test from Wardrop's computer to see if I can update
  */
 public class OI {
 
